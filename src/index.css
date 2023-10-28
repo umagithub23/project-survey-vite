@@ -5,6 +5,10 @@
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  background-color: beige;
 }
 
 code {
